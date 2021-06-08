@@ -1,7 +1,11 @@
 /**
  * This script contains WAPI functions that need to be run in the context of the webpage
  */
-/*  Fixed by DMS 08/06/2021 */
+/* Fixed by DMS 08/06/2021 */
+/* Actualizado los cambios generados el 03/06/2021 por whatsapp  */
+/* sendMessageToID  */
+/* sendMessage  */
+/* checkNumberStatus  */
 /**
  * Auto discovery the webpack object references of instances that contains all functions used by the WAPI
  * functions and creates the Store object.
